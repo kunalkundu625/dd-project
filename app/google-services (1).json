@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800088592532",
+    "firebase_url": "https://dear-doctor-6014c.firebaseio.com",
+    "project_id": "dear-doctor-6014c",
+    "storage_bucket": "dear-doctor-6014c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800088592532:android:f39f61daf1d5ef410aa481",
+        "android_client_info": {
+          "package_name": "com.example.dd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800088592532-ej0srh9s3b1jct4mr3kipnvv040n9bjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP6qZKS1UA_YPW4kzZY1fSsJxhaM0lYjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800088592532-ej0srh9s3b1jct4mr3kipnvv040n9bjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
